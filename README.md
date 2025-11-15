@@ -82,6 +82,7 @@ In this repository, we list survey, literature review and systematic review pape
 -   A systematic review of Arabic text classification: areas, applications, and future directions ([Link](https://link.springer.com/article/10.1007/s00500-023-08384-6)).
 -   Arabic documents classification: Overview and systematic review ([Link](https://pubs.aip.org/aip/acp/article/2845/1/050007/2911295)).
 -   Data augmentation for Arabic text classification: a review of current methods, challenges and prospective directions ([Link](https://peerj.com/articles/cs-2685/)).
+-   BERENSE - BERt based ENSEmbler for Arabic Authorship Identification ([Link](https://aclanthology.org/2025.arabicnlp-sharedtasks.10/)).
 
 ## Named Entity Recognition
 -  A Survey of Arabic Named Entity Recognition and Classification ([Link](https://direct.mit.edu/coli/article/40/2/469/1475/A-Survey-of-Arabic-Named-Entity-Recognition-and)).
